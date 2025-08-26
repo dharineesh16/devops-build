@@ -111,7 +111,7 @@ The Jenkins pipeline (`Jenkinsfile`) performs the following:
 - Docker Hub credentials are managed via Jenkins credentials (ID: `Credentials`).
 - Update `DEV_IMAGE` and `PROD_IMAGE` in the `Jenkinsfile` as needed.
 
-# Application Url:http://52.66.8.81/
-# Jenkins Url:13.201.12.206:8080/
-# Prometheus Url:http://52.66.8.81:9090/
-# Grafana Url:http://52.66.8.81:3000/
+# Application Url: http://52.66.8.81/
+# Jenkins Url: http://13.201.12.206:8080/
+# Prometheus Url: http://52.66.8.81:9090/
+# Grafana Url: http://52.66.8.81:3000/
